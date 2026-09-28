@@ -1,32 +1,29 @@
 # Olá, eu sou o Luis Antonio 👋
 
-Desenvolvedor Front-End e Estudante de Tecnologia em Informática.
+Desenvolvedor Front-End e Estudante de Tecnologia em Informática para Internet.
 
 ---
 
 ## 🎨 Estatísticas & Ilustrações do GitHub
 
-<!-- Banner do Cabeçalho Estável e Clicável -->
 <p align="center">
   <a href="https://github.com/luisantonioju">
-    <img src="https://img.shields.io/badge/LUIS%20ANTONIO-DEV%20FRONT--END-02569B?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Banner Luis Antonio" width="100%" height="50" />
+    <img src="https://img.shields.io/badge/LUIS%20ANTONIO-DEV%20FRONT--END-02569B?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Banner Luis Antonio" width="100%" />
   </a>
 </p>
 
-<!-- Cobrinha Interativa Clicável -->
 <p align="center">
   <a href="https://github.com/luisantonioju">
     <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
   </a>
 </p>
 
-<!-- Estatísticas do GitHub (Tema Estável Dark) -->
 <p align="center">
   <a href="https://github.com/luisantonioju">
-    <img src="https://github-readme-stats.vercel.app/api?username=luisantonioju&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Luis Antonio" height="165" />
+    <img src="https://img.shields.io/github/followers/luisantonioju?style=for-the-badge&logo=github&color=02569B&label=Seguidores" alt="Seguidores" />
   </a>
   <a href="https://github.com/luisantonioju">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisantonioju&layout=compact&theme=dark" alt="Linguagens Mais Utilizadas" height="165" />
+    <img src="https://img.shields.io/github/stars/luisantonioju?style=for-the-badge&logo=github&color=02569B&label=Stars" alt="Stars" />
   </a>
 </p>
 
@@ -45,11 +42,11 @@ Desenvolvedor Front-End e Estudante de Tecnologia em Informática.
 
 ---
 
-## 🔥 Sequência de Commits (Streak)
+## 🔥 Contribuições e Status
 
 <p align="center">
   <a href="https://github.com/luisantonioju">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisantonioju&theme=dark" alt="GitHub Streak" />
+    <img src="https://img.shields.io/github/commit-activity/m/luisantonioju/luisantonioju?style=for-the-badge&logo=github&color=238636&label=Commits%20no%20M%C3%AAs" alt="Commits no Mês" />
   </a>
 </p>
 
