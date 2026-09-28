@@ -1,6 +1,6 @@
 # Olá, eu sou o Luis Antonio 👋
 
-Desenvolvedor Front-End e Estudante de Tecnologia em Informática.
+Desenvolvedor Front-End e Estudante de Tecnologia em Informática para Internet.
 
 ---
 
