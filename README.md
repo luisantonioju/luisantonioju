@@ -4,11 +4,15 @@ Desenvolvedor Front-End e Estudante de Tecnologia em Informática para Internet.
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+## 🎨 Ilustração & Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisantonioju&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Luis Antonio" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisantonioju&layout=compact&theme=dark" alt="Linguagens Mais Utilizadas" height="170" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisantonioju&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Luis Antonio" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisantonioju&layout=compact&theme=radical" alt="Linguagens Mais Utilizadas" height="170" />
 </p>
 
 ---
@@ -28,7 +32,7 @@ Desenvolvedor Front-End e Estudante de Tecnologia em Informática para Internet.
 
 ## 🔥 Sequência de Commits (Streak)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luisantonioju&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luisantonioju&theme=radical)
 
 ---
 
