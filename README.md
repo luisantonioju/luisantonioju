@@ -6,10 +6,10 @@ Desenvolvedor Front-End e Estudante de Tecnologia em Informática.
 
 ## 🎨 Estatísticas & Ilustrações do GitHub
 
-<!-- Ilustração do Gráfico em Onda Clicável -->
+<!-- Banner do Cabeçalho Estável e Clicável -->
 <p align="center">
   <a href="https://github.com/luisantonioju">
-    <img src="https://svg.capsule-render.vercel.app/api?type=waving&color=02569B&height=180&section=header&text=Luis%20Antonio%20%E2%9C%A8&fontSize=42&fontColor=ffffff&animation=twinkle" alt="Banner Ilustrado de Cabeçalho" width="100%" />
+    <img src="https://img.shields.io/badge/LUIS%20ANTONIO-DEV%20FRONT--END-02569B?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Banner Luis Antonio" width="100%" height="50" />
   </a>
 </p>
 
@@ -20,13 +20,13 @@ Desenvolvedor Front-End e Estudante de Tecnologia em Informática.
   </a>
 </p>
 
-<!-- Estatísticas e Tecnologias em Cartões Ilustrados com Tons Azuis e Links -->
+<!-- Estatísticas do GitHub (Tema Estável Dark) -->
 <p align="center">
   <a href="https://github.com/luisantonioju">
-    <img src="https://github-readme-stats.vercel.app/api?username=luisantonioju&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&bg_color=0d1117" alt="Estatísticas do GitHub de Luis Antonio" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api?username=luisantonioju&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Luis Antonio" height="165" />
   </a>
   <a href="https://github.com/luisantonioju">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisantonioju&layout=compact&theme=tokyonight&title_color=00d4ff&text_color=ffffff&bg_color=0d1117" alt="Linguagens Mais Utilizadas" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisantonioju&layout=compact&theme=dark" alt="Linguagens Mais Utilizadas" height="165" />
   </a>
 </p>
 
@@ -49,7 +49,7 @@ Desenvolvedor Front-End e Estudante de Tecnologia em Informática.
 
 <p align="center">
   <a href="https://github.com/luisantonioju">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisantonioju&theme=tokyonight&background=0d1117&ring=02569B&fire=00d4ff&currStreakLabel=00d4ff" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisantonioju&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
 
